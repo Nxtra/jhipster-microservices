@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "appsFolders": [
+      "notification",
+      "store"
+    ],
+    "directoryPath": "../",
+    "clusteredDbApps": [
+      "notification"
+    ],
+    "serviceDiscoveryType": false,
+    "jwtSecretKey": "ZjYzMjhiYjIxMTc1MWQ1NTA4MGUyYzZmZmY0ODNiNDk2NzIyMGYxM2I0NGEyMmQzNWYxNTcyZDZjYjAzOTk3MDBjNzM4MWFlOTk2OGU5YzA4OWU2Y2U4NTMyN2U4NzJiNjQ5YQ==",
+    "dockerRepositoryName": "",
+    "dockerPushCommand": "docker push",
+    "kubernetesNamespace": "default",
+    "kubernetesServiceType": "LoadBalancer",
+    "ingressDomain": "",
+    "monitoring": "prometheus",
+    "istio": true
+  }
+}
